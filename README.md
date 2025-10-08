@@ -2,7 +2,7 @@
 
 A Python Tkinter application with SQLite backend, dark mode toggle, and emoji icons.
 
-![Banking App Screenshot](Banking system.png)
+![Banking App Screenshot](Banking-system.png)
 
 ## ✨ Features
 - Create bank accounts
